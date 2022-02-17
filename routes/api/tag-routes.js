@@ -19,8 +19,6 @@ router.get('/', (req, res) => {
           'price',
           'stock',
           'category_id',
-          // 'product_id',
-          // 'tag_id'
         ]
       }
     ],
